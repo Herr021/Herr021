@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Herr021
-- 👀 I’m interested in C++.
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on C++.
+- 👀 I’m interested in C++ and HTML.
+- 🌱 I’m currently learning C++ and HTML.
+- 💞️ I’m looking to collaborate on C++ and HTML.
 - 📫 How to reach me: selmir.selimovic@gmail.com
 
 <!---
